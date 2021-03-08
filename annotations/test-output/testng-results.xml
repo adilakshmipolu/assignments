@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-08T18:07:57 IST" name="Default suite" finished-at="2021-03-08T18:08:21 IST" duration-ms="24654">
+    <groups>
+    </groups>
+    <test started-at="2021-03-08T18:07:57 IST" name="Default test" finished-at="2021-03-08T18:08:21 IST" duration-ms="24654">
+      <class name="annotations.without_sendkeys">
+        <test-method is-config="true" signature="before()[pri:0, instance:annotations.without_sendkeys@77eca502]" started-at="2021-03-08T18:07:57 IST" name="before" finished-at="2021-03-08T18:08:00 IST" duration-ms="3259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="f()[pri:0, instance:annotations.without_sendkeys@77eca502]" started-at="2021-03-08T18:08:00 IST" name="f" finished-at="2021-03-08T18:08:20 IST" duration-ms="20082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:annotations.without_sendkeys@77eca502]" started-at="2021-03-08T18:08:20 IST" name="afterClass" finished-at="2021-03-08T18:08:21 IST" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- annotations.without_sendkeys -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
